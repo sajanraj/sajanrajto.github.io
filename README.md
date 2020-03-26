@@ -19,7 +19,7 @@
 
 Playful and Colorful One-Page portfolio featuring Parallax effects and animations. Using the Gatsby Theme [`@lekoarts/gatsby-theme-cara`](https://github.com/LekoArts/gatsby-themes/tree/master/themes/gatsby-theme-cara).
 
-[**Demo Website**](https://cara.lekoarts.de)
+[**Demo Website**](https://sajanraj.netlify.com/)
 
 Also be sure to checkout other [Free & Open Source Gatsby Themes](https://themes.lekoarts.de)
 
