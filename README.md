@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://cara.lekoarts.de">
+  <a href="https://sajanraj.netlify.com/">
     <img alt="LekoArts" src="https://img.lekoarts.de/gatsby/gatsby-site-illustration.png" />
   </a>
 </p>
 <h1 align="center">
-  Gatsby Starter Portfolio: Cara
+  Sajanraj T D
 </h1>
 
 <p align="center">
